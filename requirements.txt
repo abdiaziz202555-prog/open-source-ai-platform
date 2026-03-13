@@ -1,10 +1,10 @@
 fastapi
-uvicorn
+uvicorn[standard]
 langgraph
 pydantic
 httpx
 litellm
+python-dotenv
 redis
 neo4j
 chromadb
-python-dotenv
