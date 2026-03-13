@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langgraph
+pydantic
+httpx
+litellm
+redis
+neo4j
+chromadb
+python-dotenv
