@@ -1,12 +1,10 @@
 ---
-title: My AI Platform
-sdk: python
-emoji: 🚀
-colorFrom: blue
-colorTo: indigo
-sdk_version: 3.13.3
+title: Multi Agent Reasoning Core
+emoji: 🐨
+colorFrom: indigo
+colorTo: blue
+sdk: docker
+pinned: false
+license: apache-2.0
+short_description: Open-source self-improving multi-agent reasoning platform.
 ---
-
-# My AI Platform
-
-This is a FastAPI-based AI platform running on Hugging Face Spaces.
